@@ -1,0 +1,18 @@
+{
+  "name": "language-dafny",
+  "version": "0.0.0",
+  "description": "Dafny language support in Atom.",
+  "keywords": [
+    "dafny",
+    "verification",
+    "language",
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "repository": "https://github.com/alchiadus/language-dafny",
+  "license": "MIT",
+  "engines": {
+    "atom": "^1.0.0"
+  }
+}

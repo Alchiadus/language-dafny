@@ -1,0 +1,3 @@
+'.source.dafny':
+  'editor':
+    'commentStart': '// '
